@@ -1,0 +1,1 @@
+A simple command-line Stone Paper Scissor game built with Python and NumPy. Players compete against the computer over multiple rounds, with scores tracked automatically. The game uses random computer choices and displays the winner of each round along with the final scores.
